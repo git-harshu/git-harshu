@@ -4,7 +4,7 @@
 
 # 👋 Harsh Upadhyay
 
-### **AI Engineer | Full Stack Developer | Machine Learning Specialist**
+### **AI Engineer | Full Stack Developer**
 
 *Transforming complex data into intelligent solutions that scale*
 
@@ -74,42 +74,42 @@ Cutting-edge computer vision solution for vehicle identification
 - **Tech:** Python, TensorFlow, YOLO, OpenCV
 - **Achievement:** 95%+ accuracy in real-time detection
 - **Impact:** Deployed for traffic management systems
-- ⭐ **[View Project](https://github.com/git-harshu/anpr-system)** | 📊 **[Portfolio](https://harsh-creates.vercel.app/)**
+- ⭐ **[View Repository](https://github.com/git-harshu/anpr-system)** | 📊 **[Live Demo](https://harsh-creates.vercel.app/)**
 
 ### 2️⃣ **E-Commerce Platform** — Luxury Grooming Brand
 Full-stack MERN application with payment integration
 - **Tech:** React, Node.js, MongoDB, Stripe API
 - **Features:** Inventory management, secure payments, admin dashboard
 - **Impact:** Processing 100+ transactions/month
-- ⭐ **[View Project](https://github.com/git-harshu/ecommerce-grooming)** | 🌐 **[Live Site](https://harsh-creates.vercel.app/)**
+- ⭐ **[View Repository](https://github.com/git-harshu/ecommerce-grooming)** | 🌐 **[Live Site](https://harsh-creates.vercel.app/)**
 
 ### 3️⃣ **Car Price Prediction** — ML Regression Model
 Advanced predictive analytics for automotive market
 - **Tech:** Python, scikit-learn, pandas, Flask, Power BI
 - **Achievement:** 92% R² score, 15k+ dataset
 - **Impact:** Valuable tool for dealers and buyers
-- ⭐ **[View Project](https://github.com/git-harshu/car-price-prediction)**
+- ⭐ **[View Repository](https://github.com/git-harshu/car-price-prediction)**
 
 ### 4️⃣ **Heart Disease Prediction** — Healthcare ML
 Clinical decision support system using supervised learning
 - **Tech:** Python, scikit-learn, Flask API, SQL
 - **Achievement:** 88% accuracy, production-ready
 - **Impact:** Helping medical professionals with early detection
-- ⭐ **[View Project](https://github.com/git-harshu/heart-disease-prediction)**
+- ⭐ **[View Repository](https://github.com/git-harshu/heart-disease-prediction)**
 
 ### 5️⃣ **Semiconductor Pass/Fail Prediction** — Industrial ML
 Quality control system for manufacturing excellence
 - **Tech:** Python, XGBoost, Advanced Feature Engineering
 - **Achievement:** 94% precision in defect detection
 - **Impact:** Reducing production waste by early detection
-- ⭐ **[View Project](https://github.com/git-harshu/semiconductor-prediction)**
+- ⭐ **[View Repository](https://github.com/git-harshu/semiconductor-prediction)**
 
 ### 6️⃣ **Crop Disease Prediction** — Agricultural AI
 Computer vision model for crop health monitoring
 - **Tech:** Python, TensorFlow, Image Classification
 - **Achievement:** Multi-class classification with 91% accuracy
 - **Impact:** Helping farmers prevent crop loss
-- ⭐ **[View Project](https://github.com/git-harshu/crop-disease-prediction)**
+- ⭐ **[View Repository](https://github.com/git-harshu/crop-disease-prediction)**
 
 ---
 
