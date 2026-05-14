@@ -81,7 +81,7 @@ Full-stack MERN application with payment integration
 - **Tech:** React, Node.js, MongoDB, Stripe API
 - **Features:** Inventory management, secure payments, admin dashboard
 - **Impact:** Processing 100+ transactions/month
-- ⭐ **[View Repository](https://github.com/git-harshu/harsh-creates)** | 🌐 **[Live Site](https://harsh-creates.vercel.app/)**
+- 🌐 **[Live Site](https://hair-mastery.com/)**
 
 ### 3️⃣ **Car Price Prediction** — ML Regression Model
 Advanced predictive analytics for automotive market
