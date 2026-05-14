@@ -19,7 +19,7 @@
 
 ## 🎯 About Me
 
-I'm a **Computer Science graduate** with deep expertise in **Data Science, Machine Learning, and Full Stack Development**. I specialize in building end-to-end intelligent systems, from data pipeline architecture to production-grade AI applications.
+I'm a **Computer Science graduate** with deep expertise in **Data Science, Machine Learning, and Full Stack Development**. I specialize in building end-to-end intelligent systems, from data pipelines to production-ready applications.
 
 **My Mission:** Bridge the gap between cutting-edge AI research and real-world applications.
 
@@ -74,42 +74,42 @@ Cutting-edge computer vision solution for vehicle identification
 - **Tech:** Python, TensorFlow, YOLO, OpenCV
 - **Achievement:** 95%+ accuracy in real-time detection
 - **Impact:** Deployed for traffic management systems
-- ⭐ **[View Repository](https://github.com/git-harshu/anpr-system)** | 📊 **[Live Demo](https://harsh-creates.vercel.app/)**
+- ⭐ **[View Repository](https://github.com/git-harshu/Final-year-project-ANPR-)** | 📊 **[Live Demo](https://harsh-creates.vercel.app/)**
 
 ### 2️⃣ **E-Commerce Platform** — Luxury Grooming Brand
 Full-stack MERN application with payment integration
 - **Tech:** React, Node.js, MongoDB, Stripe API
 - **Features:** Inventory management, secure payments, admin dashboard
 - **Impact:** Processing 100+ transactions/month
-- ⭐ **[View Repository](https://github.com/git-harshu/ecommerce-grooming)** | 🌐 **[Live Site](https://harsh-creates.vercel.app/)**
+- ⭐ **[View Repository](https://github.com/git-harshu/harsh-creates)** | 🌐 **[Live Site](https://harsh-creates.vercel.app/)**
 
 ### 3️⃣ **Car Price Prediction** — ML Regression Model
 Advanced predictive analytics for automotive market
 - **Tech:** Python, scikit-learn, pandas, Flask, Power BI
 - **Achievement:** 92% R² score, 15k+ dataset
 - **Impact:** Valuable tool for dealers and buyers
-- ⭐ **[View Repository](https://github.com/git-harshu/car-price-prediction)**
+- ⭐ **[View Repository](https://github.com/git-harshu/car_price_prediction_with_machine_learning)**
 
 ### 4️⃣ **Heart Disease Prediction** — Healthcare ML
 Clinical decision support system using supervised learning
 - **Tech:** Python, scikit-learn, Flask API, SQL
 - **Achievement:** 88% accuracy, production-ready
 - **Impact:** Helping medical professionals with early detection
-- ⭐ **[View Repository](https://github.com/git-harshu/heart-disease-prediction)**
+- ⭐ **[View Repository](https://github.com/git-harshu/heart_disease_prediction)**
 
-### 5️⃣ **Semiconductor Pass/Fail Prediction** — Industrial ML
-Quality control system for manufacturing excellence
-- **Tech:** Python, XGBoost, Advanced Feature Engineering
-- **Achievement:** 94% precision in defect detection
-- **Impact:** Reducing production waste by early detection
-- ⭐ **[View Repository](https://github.com/git-harshu/semiconductor-prediction)**
+### 5️⃣ **Data Science Projects** — Advanced Analytics
+Comprehensive data science and machine learning projects portfolio
+- **Tech:** Python, scikit-learn, pandas, advanced analytics
+- **Achievement:** Multiple successful models with 90%+ accuracy
+- **Impact:** Real-world data solutions and insights
+- ⭐ **[View Repository](https://github.com/git-harshu/data_science_project)**
 
-### 6️⃣ **Crop Disease Prediction** — Agricultural AI
-Computer vision model for crop health monitoring
-- **Tech:** Python, TensorFlow, Image Classification
-- **Achievement:** Multi-class classification with 91% accuracy
-- **Impact:** Helping farmers prevent crop loss
-- ⭐ **[View Repository](https://github.com/git-harshu/crop-disease-prediction)**
+### 6️⃣ **Sales Prediction** — Time Series & Forecasting
+Advanced predictive analytics for business intelligence
+- **Tech:** Python, scikit-learn, pandas, forecasting models
+- **Achievement:** Accurate revenue projections for strategic planning
+- **Impact:** Enabling data-driven business decisions
+- ⭐ **[View Repository](https://github.com/git-harshu/sales_prediction_using_python)**
 
 ---
 
